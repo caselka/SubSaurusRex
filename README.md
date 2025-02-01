@@ -206,15 +206,7 @@ git push origin feature-name
     Open an issue on GitHub Issues.
     Contact Caselka for further support.
 
-🚀 Happy Hacking! 🔥
+🚀 Happy Legal & Ethical Hacking! 🔥
 
 
 ---
-
-## **📌 Next Steps: Push the Updated README to GitHub**
-Once you've saved the updated `README.md`, push it to GitHub:
-
-```bash
-git add README.md
-git commit -m "Updated README with legal disclaimer"
-git push origin main
